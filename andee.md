@@ -1,7 +1,11 @@
-# Hello world!
+# What is the answer to life, the universe and everything?
+42.
 
-## this is a smaller header. 
+## What is the deal with airplane food?
 
-Here is some super good information for you to read. BE SURE TO READ IT! 
+Seriously. What is the deal? 
 
-**Bold! Therefore its important!**
+### What is love?
+
+- Baby, don't hurt me. 
+  - Dont hurt me, no more.
